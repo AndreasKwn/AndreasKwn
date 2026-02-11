@@ -12,7 +12,7 @@
 
 <p align="left">My projects span various technologies including C++, Python, JavaScript, and React. I enjoy leveraging the power of Pandas for data analysis in Python. I am always eager to learn new skills and collaborate on exciting projects.<br><br>Feel free to explore my repositories to see my work. Let's connect and create something amazing together!
 <br><br>✉️: andreaskonstanto@gmail.com
-<br>📜: <a href="https://drive.google.com/file/d/1lIci5sjmKLFCuuVoNiTgOUpTGwsrsUWc/view?usp=drive_link">Check out my CV </a> </p>
+<br>📜: <a href="https://drive.google.com/file/d/14EZZUnFg2604w85NQxZeZzRBZGpezdVX/view?usp=sharing">Check out my CV </a> </p>
 
 ###
 
